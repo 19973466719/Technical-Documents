@@ -40,7 +40,7 @@
     * Google Protocol Buffer： https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html
 * 并行程序设计（Parallel Programming）
     * pthread多核、共享内存并行程序设计
-    * GPU数据并行程序设计
+    * CUDA数据并行程序设计
     * MPI分布式内存并行程序设计
     * openMP共享内存并行程序设计
 * Machine Learning 机器学习
