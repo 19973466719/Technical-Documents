@@ -1,1 +1,2 @@
-http://www.cs.cmu.edu/~418/schedule.html
+http://www.cs.cmu.edu/~418/schedule.html （2019课程，暂时未开放）
+http://www.cs.cmu.edu/afs/cs/academic/class/15418-s18/www/schedule.html （2018课程，已经开放）
