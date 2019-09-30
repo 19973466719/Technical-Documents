@@ -9,6 +9,7 @@
 * Google Protocol Buffer https://github.com/protocolbuffers/protobuf/releases   结构化数据序列化工具
 * word2vec https://arxiv.org/pdf/1310.4546.pdf  https://code.google.com/archive/p/word2vec/  https://rare-technologies.com/word2vec-tutorial/#app  https://juejin.im/post/59f13363f265da431875f746 (中文维基百科语料)
 * networkx https://networkx.github.io/ (图API)
+* networkit  https://networkit.github.io/ (大规模图分析API)
 
 ## **使用的技术**
 
