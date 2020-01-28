@@ -22,6 +22,7 @@
     * NVMe SSD
     * NFS
     * DNFS
+    * NVM
 * Linux System Programming
     * system call
     * glibc
@@ -44,20 +45,13 @@
     * CUDA数据并行程序设计
     * MPI分布式内存并行程序设计
     * openMP共享内存并行程序设计
-* Machine Learning 机器学习
-    * 监督学习
-    * 非监督学习
 * FPGA 现场可编程门阵列
     * Zynq UltraScale+ MPSoC ZCU102 （20000RMB）
     * Zynq UltraScale+ MPSoC ZCU104 （8000RMB）
     * verilog
     * C语言交叉编译技术
-* Text Mining  文本挖掘
-* Deep Learing 深度学习
+
 * 知识图谱
-    * 信息/知识抽取
-        * 命名实体识别
-        * 关系抽取
     * 知识存储
     * 知识表示
     * 知识学习与挖掘
